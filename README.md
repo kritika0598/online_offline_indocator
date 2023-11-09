@@ -1,4 +1,4 @@
-# online_offline_indocator
+# Online Offline Indicator
 1. docker-compose up -d
 2. 4. create new db `test`
     1. create new table `pulse`
